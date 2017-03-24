@@ -1,0 +1,6 @@
+number, expected
+100, true
+1, false
+0, true
+-987654, true
+-654549, false
